@@ -6,5 +6,6 @@ export const colors = {
   success: '#2ECC71', // Verde claro - Abrigos com vaga
   light: '#F2F2F2', // Cinza claro - backgrounds secundários
   textDark: '#2C3E50', // Cinza escuro - Texto principal
-  textLight: '#FFFFFF' // Branco - Texto em botões e destaques
+  textLight: '#FFFFFF', // Branco - Texto em botões e destaques
+  backgroundTitlePost: '#D32F2F', // Vermelho - Fundo do título do post
 };
