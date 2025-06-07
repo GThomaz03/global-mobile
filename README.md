@@ -90,7 +90,7 @@ ROTASEGURA/
 
 ### Clone o repositório
 ```
-git clone https://github.com/GThomaz03/global-mobile
+git clone https://github.com/GThomaz03/global-mobile.git
 cd rotasegura
 ```
 
