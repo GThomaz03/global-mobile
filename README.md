@@ -1,8 +1,20 @@
 # 🚨 Rota Segura - App de Segurança e Solidariedade Comunitária
-
 O **Rota Segura** é um aplicativo mobile desenvolvido em **React Native + TypeScript** com o objetivo de promover a segurança, cooperação e solidariedade entre pessoas em situações de risco, por meio de um sistema de **mapeamento colaborativo, emergências, e rede de apoio**.
 
 ---
+
+### Integrantes
+
+* RM557886 - Eduardo Guilherme Dias
+* RM558637 - Gabriel Alves Thomaz
+* RM557652 - Luiz Sadao Kamada
+
+### Link do vídeo de demonstração do App
+* https://youtu.be/6Y3xatXEJYU
+
+---
+
+
 
 ## 📱 Funcionalidades Principais
 
